@@ -8,8 +8,11 @@ h1 {
   border-style: solid;
   border-radius: 7px;
   border-width: 3px;
-  margin-left: 25px;
-  margin-right: 25px;
   font-family: Jersey10;
   font-size: 40px;
+  background-color: rgb(155, 155, 155);
+}
+
+body {
+background-color: black;
 }
