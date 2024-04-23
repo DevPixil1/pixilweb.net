@@ -1,5 +1,7 @@
 h1 {
   text-align: center;
-  border-style: 2px solid black;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
   border-radius: 2px;
+  border-width: 3px;
 }
