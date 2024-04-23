@@ -6,6 +6,7 @@
 h1 {
   text-align: center;
   border-style: solid;
+  border-color: rgb(50, 50, 50);
   border-radius: 7px;
   border-width: 3px;
   font-family: Windows98;
