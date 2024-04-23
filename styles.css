@@ -6,3 +6,8 @@ h1 {
   margin: auto;
   font-family: "Jersey10-Regular.ttf", sans-serif
 }
+
+@font-face {
+  font-family: Jersey10;
+  src: url(Jersey10-Regular.ttf);
+}
