@@ -1,13 +1,16 @@
+@font-face {
+  font-family: Jersey10;
+  src: url(Jersey10-Regular.ttf);
+}
+
+* {
+  font-family: Jersey10;
+}
+
 h1 {
   text-align: center;
   border-style: solid;
   border-radius: 7px;
   border-width: 3px;
-  margin: auto;
-  font-family: Jersey10
-}
-
-@font-face {
-  font-family: Jersey10;
-  src: url(Jersey10-Regular.ttf);
+  margin: 25px;
 }
